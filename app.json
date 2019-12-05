@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "<simple to do App>",
+    "name": "simple to do App",
+    "description": "To do App made with React Native",
     "slug": "simple-todo",
     "privacy": "public",
     "sdkVersion": "35.0.0",
